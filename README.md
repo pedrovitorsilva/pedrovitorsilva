@@ -17,14 +17,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='40px'/>
   </h1>
  </div>
-   
 
- # Attending College:  
- 
- <img src='https://user-images.githubusercontent.com/85745442/250362188-79024409-5803-4885-b644-979856b5f718.png' height='50px'> 
- Bacharelado em Sistemas de Informação : IFBA - Campus Vitória da Conquista
-
-
+<div>
+  <h1> Attending College: 
+   <img src='https://user-images.githubusercontent.com/85745442/250362188-79024409-5803-4885-b644-979856b5f718.png' height='50px'>
+  </h1>
+  <h3>Bacharelado em Sistemas de Informação : IFBA - Campus Vitória da Conquista</h3>
+ </div>
 
  # Projects:
  
