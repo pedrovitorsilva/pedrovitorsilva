@@ -15,6 +15,11 @@
  ## Cursando:
   ### Bacharelado em Sistemas de Informação : IFBA - Campus Vitória da Conquista
 
+
+ ## Alguns projetos:
+ ![007](https://github.com/pedrovitorsilva/pedrovitorsilva/assets/85745442/104a31a1-1cd8-4fa4-9fd5-2961fea4e687) <a href="https://github.com/pedrovitorsilva/SquirdleSolver">Squirdle Solver </a>
+
+
 <!--
 **V1torPedro/V1torPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
