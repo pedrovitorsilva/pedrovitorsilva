@@ -1,18 +1,20 @@
 ### Opa, eu sou o Pedro Vitor!
 
+<!-- Working On  ------------------------------------------------------------>
 
 <div>
-<summary style="padding-left:0">
-  <h1>Actually Working On:</h1>
+<summary style="padding-left:0; display: block">
+  <h1>Trabalhando Atualmente Com / Actually Working On:</h1>
 </summary>
 </div>
 
  - Power BI <img src= 'https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png' height='40px'/>
 
 
+<!-- Studying ---------------------------------------------------------------->
 <div>
 <summary style="padding-left:0">
-  <h1>Studying:</h1>
+  <h1>Estudando / Studying:</h1>
 </summary>
   <h1>
     <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" height='40px' />
@@ -24,46 +26,48 @@
   </h1>
 </div>
 
+<!-- Projects ------------------------------------------------------------------->
 
-  <div>
-    <summary style="padding-left:0">
-      <h1> Attending College: </h1>
-    </summary>
-    <summary style="padding-left:0">
-      <h1> <img src='https://user-images.githubusercontent.com/85745442/250362188-79024409-5803-4885-b644-979856b5f718.png' height='50px'></h1>
-    </summary>
-    <summary style="padding-left:0">
-      <h3>Bacharelado em Sistemas de Informação : IFBA - Campus Vitória da Conquista</h3>
-    </summary> 
-  </div>
+<summary style="padding-left:0">
+  <h1> Alguns Projetos / Some Projects</h1>
+</summary> 
 
+<!-- Squirdle Solver ------------------------------------------------------------>
 
-  <summary style="padding-left:0">
-    <h1>Projects</h1>
-  </summary> 
-
-  <summary style="padding-left:0">
-  <h2>
-   <img src='https://i.gifer.com/origin/d8/d83e9951f28fc811c1166b16dcaec930_w200.gif' height='50px' />
-     <a href="https://github.com/pedrovitorsilva/SquirdleSolver">Squirdle Solver</a>
-  </h2>
-  </summary>
+<summary style="padding-left:0">
+<h2>
+ <img src='https://i.gifer.com/origin/d8/d83e9951f28fc811c1166b16dcaec930_w200.gif' height='50px' />
+   <a href="https://github.com/pedrovitorsilva/SquirdleSolver">Squirdle Solver</a>
+</h2>
+</summary>
  
- Features:
- * Autocomplete search bar
- * Dynamic image-based pallete 
+ Recursos / Features:
+ * Barra de Pesquisa com Autocomplete / Autocomplete search bar
+ * Paleta de Cores Dinâmica, baseada em uma imagem / Dynamic image-based pallete
+   
+<!-- Minesweeper ---------------------------------------------------------------->
+<summary style="padding-left:0">
+<h2>
+ <img src='https://w7.pngwing.com/pngs/337/559/png-transparent-minesweeper-computer-icons-bing-maps-video-game-mines-miscellaneous-game-angle.png' height='50px' />
+   <a href="https://github.com/pedrovitorsilva/MinesweeperGuide"> Campo Minado / Minesweeper Guide </a>
+</h2>
+</summary>
+ 
+ Recursos / Features:
+ * Exemplo de solução para problemas de Satisfação de Restrições / An CSP Solution Example
+ * Otimização em Recursões / Recursion Optimization
+ * AC3 Algorithm (https://en.wikipedia.org/wiki/AC-3_algorithm)
 
-<!--
-**V1torPedro/V1torPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- IFBA ---------------------------------------------------------------->
+<div>
+  <summary style="padding-left:0">
+    <h1>Cursando / Attending College: </h1>
+  </summary>
+  <summary style="padding-left:0">
+    <h1> <img src='https://user-images.githubusercontent.com/85745442/250362188-79024409-5803-4885-b644-979856b5f718.png' height='50px'></h1>
+  </summary>
+  <summary style="padding-left:0">
+    <h3>Bacharelado em Sistemas de Informação : IFBA - Campus Vitória da Conquista</h3>
+  </summary> 
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
