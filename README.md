@@ -3,17 +3,18 @@
 <!-- Working On  ------------------------------------------------------------>
 
 <div>
-<summary style="padding-left:0; display: block">
-  <h1>Trabalhando Atualmente Com / Actually Working On:</h1>
+<summary style="padding-left:0;" list-style="none" >
+  <h1>Trabalhando Atualmente Com / Actually Working On:</h1> <br>
+  <h3>Power BI </h3> 
+  <img src= 'https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png' height='40px'/>
 </summary>
 </div>
 
- - Power BI <img src= 'https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png' height='40px'/>
 
 
 <!-- Studying ---------------------------------------------------------------->
 <div>
-<summary style="padding-left:0">
+<summary style="padding-left:0 display: block">
   <h1>Estudando / Studying:</h1>
 </summary>
   <h1>
