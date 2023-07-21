@@ -3,11 +3,20 @@
 <!-- Working On  ------------------------------------------------------------>
 
 # Trabalhando Atualmente Com / Actually Working On:
-### Power BI <img src= 'https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png' height='40px'/>
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 
 <!-- Studying ---------------------------------------------------------------->
 # Estudando / Studying:
- <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" height='40px' />  <img src="https://icons.iconarchive.com/icons/sicons/basic-round-social/512/jquery-icon.png" height='40px' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height='40px'/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='40px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='40px'/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height='40px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='40px'/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <!-- Projects ------------------------------------------------------------------->
 
