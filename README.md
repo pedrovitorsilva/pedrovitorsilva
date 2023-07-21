@@ -15,9 +15,11 @@
 
 <!-- Squirdle Solver ------------------------------------------------------------>
 
-<h2>
- <img src='https://i.gifer.com/origin/d8/d83e9951f28fc811c1166b16dcaec930_w200.gif' height='50px' />
-   <a href="https://github.com/pedrovitorsilva/SquirdleSolver">Squirdle Solver</a>
+<h2> 
+ <a href="https://github.com/pedrovitorsilva/SquirdleSolver">
+  <img src='https://i.gifer.com/origin/d8/d83e9951f28fc811c1166b16dcaec930_w200.gif' height='50px' />
+ </a>
+ <a href="https://github.com/pedrovitorsilva/SquirdleSolver">Squirdle Solver</a>
 </h2>
  
  Recursos / Features:
@@ -26,8 +28,10 @@
    
 <!-- Minesweeper ---------------------------------------------------------------->
 <h2>
- <img src='https://w7.pngwing.com/pngs/337/559/png-transparent-minesweeper-computer-icons-bing-maps-video-game-mines-miscellaneous-game-angle.png' height='50px' />
-   <a href="https://github.com/pedrovitorsilva/MinesweeperGuide"> Campo Minado / Minesweeper Guide </a>
+ <a href="https://github.com/pedrovitorsilva/MinesweeperGuide"> 
+  <img src='https://w7.pngwing.com/pngs/337/559/png-transparent-minesweeper-computer-icons-bing-maps-video-game-mines-miscellaneous-game-angle.png' height='50px' />
+ </a>
+ <a href="https://github.com/pedrovitorsilva/MinesweeperGuide"> Campo Minado / Minesweeper Guide </a>
 </h2>
  
  Recursos / Features:
