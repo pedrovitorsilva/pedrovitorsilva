@@ -22,7 +22,7 @@
  
  Recursos / Features:
  * Barra de Pesquisa com Autocomplete / Autocomplete search bar
- * Paleta de Cores Dinâmica, baseada em uma imagem / Dynamic image-based pallete
+ * Paleta de Cores Dinâmica, baseada em imagems / Dynamic image-based pallete
    
 <!-- Minesweeper ---------------------------------------------------------------->
 <h2>
