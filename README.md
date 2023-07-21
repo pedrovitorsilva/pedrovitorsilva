@@ -21,8 +21,8 @@
 </h2>
  
  Recursos / Features:
- * Barra de Pesquisa com Autocomplete / Autocomplete search bar
- * Paleta de Cores Dinâmica, baseada em imagems / Dynamic image-based pallete
+ * Barra de pesquisa com autocomplete / Autocomplete search bar
+ * Paleta de cores dinâmica, baseada em imagens / Dynamic image-based pallete
    
 <!-- Minesweeper ---------------------------------------------------------------->
 <h2>
@@ -31,8 +31,8 @@
 </h2>
  
  Recursos / Features:
- * Exemplo de solução para problemas de Satisfação de Restrições / An CSP Solution Example
- * Otimização em Recursões / Recursion Optimization
+ * Exemplo de solução para problemas de satisfação de restrições / An CSP Solution Example
+ * Otimização de recursões / Recursion optimization
  * AC3 Algorithm (https://en.wikipedia.org/wiki/AC-3_algorithm)
 
 <!-- IFBA ---------------------------------------------------------------->
