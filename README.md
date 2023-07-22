@@ -38,7 +38,7 @@
 <!-- Minesweeper ---------------------------------------------------------------->
 <h2>
  <a href="https://github.com/pedrovitorsilva/MinesweeperGuide"> 
-  <img src='https://w7.pngwing.com/pngs/337/559/png-transparent-minesweeper-computer-icons-bing-maps-video-game-mines-miscellaneous-game-angle.png' height='50px' />
+  <img src='https://static.wikia.nocookie.net/logopedia/images/9/98/Minesweeper_1992.png/revision/latest/zoom-crop/width/500/height/500?cb=20220716174154' height='50px'/>
  </a>
  <a href="https://github.com/pedrovitorsilva/MinesweeperGuide"> Campo Minado / Minesweeper Guide </a>
 </h2>
