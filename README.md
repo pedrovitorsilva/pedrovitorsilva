@@ -21,7 +21,7 @@
 <!-- Projects ------------------------------------------------------------------->
 
 # Alguns Projetos / A Few Projects
-
+### Meu objetivo aqui não é mostrar os projetos em si, mas o que eles me proporcionaram aprender, que posso usar em diversos contextos.
 <!-- Squirdle Solver ------------------------------------------------------------>
 
 <h2> 
@@ -32,6 +32,7 @@
 </h2>
  
  Recursos / Features:
+ * Pesquisas em banco de dados / Filter searchs in databases
  * Barra de pesquisa com autocomplete / Autocomplete search bar
  * Paleta de cores dinâmica, baseada em imagens / Dynamic image-based pallete
    
