@@ -22,6 +22,21 @@
 
 # Alguns Projetos / A Few Projects
 ### Meu objetivo aqui não é mostrar os projetos em si, mas o que eles me proporcionaram aprender, que posso usar em diversos contextos.
+### My aim here is not to show the projects themselves, but what they allowed me to learn, which I can use in different contexts.
+<!-- Spotify Dataset ------------------------------------------------------------>
+
+<h2> 
+ <a href="https://github.com/pedrovitorsilva/spotifydataset" style="color:green">
+  <img src='https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=6c09b952s02im560f3t0x9v9698z4cr8sp709h3cxiswehfp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' height='50px' />
+ </a>
+ <a href="https://github.com/pedrovitorsilva/spotifydataset">Spotify Dataset</a>
+</h2>
+
+ Recursos / Features:
+ * Construção de Dashboards em PowerBI com planilhas Excel / Dashboards in PowerBI with Excel spreadsheets
+ * Filtros e cartões dinâmicos / Dynamic filters and cards
+ * Paginação de Dashboards / Dashboard pagination
+
 <!-- Squirdle Solver ------------------------------------------------------------>
 
 <h2> 
