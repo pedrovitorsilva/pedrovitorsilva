@@ -38,6 +38,7 @@
  * Paginação de Dashboards / Dashboard pagination
 
 <!-- Squirdle Solver ------------------------------------------------------------>
+<!--
 
 <h2> 
  <a href="https://github.com/pedrovitorsilva/SquirdleSolver">
@@ -50,8 +51,10 @@
  * Pesquisas em banco de dados / Filter searchs in databases
  * Barra de pesquisa com autocomplete / Autocomplete search bar
  * Paleta de cores dinâmica, baseada em imagens / Dynamic image-based pallete
-   
+ -->
+ 
 <!-- Minesweeper ---------------------------------------------------------------->
+<!--
 <h2>
  <a href="https://github.com/pedrovitorsilva/MinesweeperGuide"> 
   <img src='https://static.wikia.nocookie.net/logopedia/images/9/98/Minesweeper_1992.png/revision/latest/zoom-crop/width/500/height/500?cb=20220716174154' height='50px'/>
@@ -63,7 +66,7 @@
  * Exemplo de solução para problemas de satisfação de restrições / An CSP Solution Example
  * Otimização de recursões / Recursion optimization
  * AC3 Algorithm (https://en.wikipedia.org/wiki/AC-3_algorithm)
-
+-->
 <!-- IFBA ---------------------------------------------------------------->
 
 # Cursando / Attending College:
