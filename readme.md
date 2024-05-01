@@ -5,7 +5,7 @@
  <br/>  <br/>
 <!-- About  ------------------------------------------------------------>
  <img width="15" src="https://avatars.githubusercontent.com/u/62598536"> &emsp; Cursando Sistemas de Informação no IFBA <br/><br/>
- 🦾 &emsp; Buscando sempre os melhores resultados <br/><br/>
+ 🦾 &emsp; Buscando sempre os melhores resultados!! <br/><br/>
  🇧🇷 &emsp; Vitória da Conquista, Bahia, Brasil <br/><br/>
 
 
