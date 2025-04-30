@@ -4,7 +4,7 @@
  <img align="right" width="350" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding gif" />
  <br/>  <br/>
 <!-- About  ------------------------------------------------------------>
- <img width="15" src="https://avatars.githubusercontent.com/u/62598536"> &emsp; Cursando Sistemas de Informação no IFBA <br/><br/>
+ <img width="15" src="https://avatars.githubusercontent.com/u/62598536"> &emsp; Bacharel em Sistemas de Informação no IFBA <br/><br/>
  🦾 &emsp; Buscando sempre os melhores resultados!! <br/><br/>
  🇧🇷 &emsp; Vitória da Conquista, Bahia, Brasil <br/><br/>
 
@@ -19,7 +19,8 @@
 <details>
 <summary> Linguagens e recursos que uso 🔗</summary>
 <br/>
- 
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
