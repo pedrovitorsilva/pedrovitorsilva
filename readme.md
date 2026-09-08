@@ -69,11 +69,16 @@
 
 ## My Data
 
-<div> 
-<a href="https://github.com/pedrovitorsilva"><img alt="Stats" src="https://github-stats-extended.vercel.app/api?username=pedrovitorsilva&show_icons=true&count_private=true&theme=algolia&border_color=FFCB55&bg_color=1A1B1F&title_color=FFCB55&icon_color=F08030" height="192px" width="49.5%"/></a>
-<a href="https://github.com/pedrovitorsilva"><img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=pedrovitorsilva&langs_count=8&layout=compact&theme=algolia&border_color=FFCB55&bg_color=1A1B1F&title_color=FFCB55&icon_color=F08030" height="192px" width="49.5%"/></a>
+<div>
+    <img alt="Stats" src="https://github-stats-extended.vercel.app/api?username=pedrovitorsilva&show_icons=true&count_private=true&theme=algolia&border_color=FFCB55&bg_color=1A1B1F&title_color=FFCB55&icon_color=F08030" height="192px" width="49.5%"/>
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=pedrovitorsilva&langs_count=8&layout=compact&theme=algolia&border_color=FFCB55&bg_color=1A1B1F&title_color=FFCB55&icon_color=F08030" height="192px" width="49.5%"/>
   <br/>
 </div>
 
+<div style="padding:100px;">
+   <img alt="Pedro's github contributions" src="https://github.pumbas.net/api/contributions/pedrovitorsilva?colour=F2CB55&bgColour=0D1117&dotColour=D04E4E" width="90%"/>
+</div>
+</div>
 
-[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovitorsilva&custom_title=My%20Activity&bg_color=0D1117&color=F2CB55&line=F2CB55&point=F2CB55&area_color=F2CB35&title_color=F2CB55&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
