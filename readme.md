@@ -1,18 +1,15 @@
 ### Bem Vindo! Eu sou o Pedro Vitor!
  
 <p>
- <img align="right" width="450" src="https://miro.medium.com/v2/1*L_QoAG863l8QvqxpNyBiqw.gif" alt="Coding robot js gif" />
- <br/>  <br/>
-<!-- About  ------------------------------------------------------------>
+ <img align="right" width="400" src="https://miro.medium.com/v2/1*L_QoAG863l8QvqxpNyBiqw.gif" alt="Coding robot js gif" />
+ 
+Bacharel em **Sistemas de Informação** com foco em Engenharia de Dados e desenvolvimento de software. Experiente em transformar dados em insights, criando soluções escaláveis com **Python**, **JavaScript (Node.js)**, bancos de dados relacionais e não-relacionais, além de ferramentas da **AWS** e **Business Intelligence**. Com experiência em processos de ETL/ELT, Docker e modelagem de dados, busco constantemente otimizar processos e contribuir com equipes que valorizam excelência, aprendizado contínuo e inovação.
+
  <img width="15" src="https://avatars.githubusercontent.com/u/62598536"> &emsp; Bacharel em Sistemas de Informação no IFBA <br/><br/>
  🦾 &emsp; Buscando sempre os melhores resultados!! <br/><br/>
- 🇧🇷 &emsp; Vitória da Conquista, Bahia, Brasil <br/><br/>
-
-
+  🇧🇷 &emsp; Vitória da Conquista, Bahia, Brasil <br/><br/>
 </p>
 
-<br/>
-<br/>
 <br/>
 
 ## Use To Code
