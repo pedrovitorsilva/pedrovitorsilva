@@ -50,11 +50,9 @@
  <br/>
 
 [![MCP com Containers](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=MCP_Containers_Trabalho_Final&border_color=F2CB55&bg_color=0D1117&title_color=F2CB55&text_color=8B949E&icon_color=F2CB55)](https://github.com/pedrovitorsilva/MCP_Containers_Trabalho_Final)
- 
 [![SpotifyDataset](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=spotifydataset&border_color=46923C&bg_color=0D1117&title_color=46923C&text_color=8B949E&icon_color=46923C)](https://github.com/pedrovitorsilva/spotifydataset) &emsp; 
 
 [![MinesweeperGuide](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=MinesweeperGuide&border_color=e1e4e8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e1e4e8)](https://github.com/pedrovitorsilva/MinesweeperGuide)
-
 [![Cygnus](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=cygnus&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedrovitorsilva/cygnus) &emsp; 
 
 
@@ -71,11 +69,11 @@
 
 ## My Data
 
-<a> 
-  <a href="https://github.com/pedrovitorsilva"><img alt="Stats" src="https://denvercoder1-github-stats-extended.vercel.app/api?username=pedrovitorsilva&show_icons=true&count_private=true&theme=algolia&border_color=FFCB55&bg_color=1A1B1F&title_color=FFCB55&icon_color=F08030" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/pedrovitorsilva"><img alt="Top Languages" src="https://denvercoder1-github-stats-extended.vercel.app/api/top-langs/?username=pedrovitorsilva&langs_count=8&layout=compact&theme=algolia&border_color=FFCB55&bg_color=1A1B1F&title_color=FFCB55&icon_color=F08030" height="192px" width="49.5%"/></a>
+<div> 
+<a href="https://github.com/pedrovitorsilva"><img alt="Stats" src="https://github-stats-extended.vercel.app/api?username=pedrovitorsilva&show_icons=true&count_private=true&theme=algolia&border_color=FFCB55&bg_color=1A1B1F&title_color=FFCB55&icon_color=F08030" height="192px" width="49.5%"/></a>
+<a href="https://github.com/pedrovitorsilva"><img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=pedrovitorsilva&langs_count=8&layout=compact&theme=algolia&border_color=FFCB55&bg_color=1A1B1F&title_color=FFCB55&icon_color=F08030" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</div>
 
 
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovitorsilva&custom_title=My%20Activity&bg_color=0D1117&color=F2CB55&line=F2CB55&point=F2CB55&area_color=F2CB35&title_color=F2CB55&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovitorsilva&custom_title=My%20Activity&bg_color=0D1117&color=F2CB55&line=F2CB55&point=F2CB55&area_color=F2CB35&title_color=F2CB55&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
