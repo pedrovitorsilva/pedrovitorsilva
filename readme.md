@@ -47,7 +47,7 @@ Bacharel em **Sistemas de Informação** com foco em Engenharia de Dados e desen
  <br/>
 
 [![MCP com Containers](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=MCP_Containers_Trabalho_Final&border_color=F2CB55&bg_color=0D1117&title_color=F2CB55&text_color=8B949E&icon_color=F2CB55)](https://github.com/pedrovitorsilva/MCP_Containers_Trabalho_Final)
-[![SpotifyDataset](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=spotifydataset&border_color=46923C&bg_color=0D1117&title_color=46923C&text_color=8B949E&icon_color=46923C)](https://github.com/pedrovitorsilva/spotifydataset) &emsp; 
+[![SpotifyDataset](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=eleicoes-2024&border_color=46923C&bg_color=0D1117&title_color=46923C&text_color=8B949E&icon_color=46923C)](https://github.com/pedrovitorsilva/spotifydataset) &emsp; 
 
 [![MinesweeperGuide](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=MinesweeperGuide&border_color=e1e4e8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e1e4e8)](https://github.com/pedrovitorsilva/MinesweeperGuide)
 [![Cygnus](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=cygnus&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedrovitorsilva/cygnus) &emsp; 
