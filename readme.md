@@ -50,7 +50,6 @@ Bacharel em **Sistemas de Informação** com foco em Engenharia de Dados e desen
 [![SpotifyDataset](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=eleicoes-2024&border_color=46923C&bg_color=0D1117&title_color=46923C&text_color=8B949E&icon_color=46923C)](https://github.com/pedrovitorsilva/eleicoes-2024) &emsp; 
 
 [![MinesweeperGuide](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=MinesweeperGuide&border_color=e1e4e8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e1e4e8)](https://github.com/pedrovitorsilva/MinesweeperGuide)
-
 [![Soroban Chatbot](https://github-stats-extended.vercel.app/api/pin/?username=pedrovitorsilva&repo=soroban-chatbot&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedrovitorsilva/soroban-chatbot) &emsp;
 
 </details>
