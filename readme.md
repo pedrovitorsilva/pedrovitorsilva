@@ -8,6 +8,7 @@ Bacharel em **Sistemas de Informação** com foco em Engenharia de Dados e desen
  <img width="15" src="https://avatars.githubusercontent.com/u/62598536"> &emsp; Bacharel em Sistemas de Informação no IFBA <br/><br/>
  🦾 &emsp; Buscando sempre os melhores resultados!! <br/><br/>
   🇧🇷 &emsp; Vitória da Conquista, Bahia, Brasil <br/><br/>
+  <a href='https://pedrovitorsilva.github.io/' alt='Link do meu site'> Veja mais sobre mim aqui - Curriculo</a> <br/><br/>
 </p>
 
 <br/>
